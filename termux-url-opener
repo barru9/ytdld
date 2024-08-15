@@ -28,9 +28,9 @@ echo -e $R"            \_/   \_/   \_/  \_/  "$N
 
 echo -e $C "╔════════════════════════════════════════╗"
 echo -e $G "║ ==> Project Name  :Termux-YDL           ║"
-echo -e $G "║ ==> Author        :BARKAT SHAH               ║"
-echo -e $G "║ ==> Github        :github.com/creepybeast    ║"
-echo -e $G "║ ==> Telegram      :@barru9            ║"
+echo -e $G "║ ==> Author        :BARKAT SHAH          ║"
+echo -e $G "║ ==> Github        :github.com/barru9    ║"
+echo -e $G "║ ==> Telegram      :@barru9              ║"
 echo -e $C "╠════════════════════════════════════════╝"
 echo -e $C "╠═▶ [ MUSIC krega ya VIDEO?:: ]"
 echo -e $B "╠═▶ [1] Music Mp3♫"
