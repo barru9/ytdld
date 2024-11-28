@@ -8,14 +8,15 @@ copy and paste these commands if you just installed termux!
 
 now run this command to fully setup your termux from scratch to able to use this tool!
 
-
+```
 pkg install git python-pip python3
-
+```
 
 Now run this command to install yt-dld tool!
 
-
-git clone https://github.com/barru9/ytdld cd ytdld bash install.sh
+```
+git clone https://github.com/barru9/ytdld cd ytdld bash install.sh 
+```
 
 Installation success!
 
