@@ -15,7 +15,11 @@ pkg install git python-pip python3
 Now run this command to install yt-dld tool!
 
 ```
-git clone https://github.com/barru9/ytdld cd ytdld bash install.sh 
+git clone https://github.com/barru9/ytdld
+
+cd ytdld
+
+bash install.sh 
 ```
 
 Installation success!
